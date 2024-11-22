@@ -62,8 +62,11 @@ sudo mv wp-config-sample.php wp-config.php
 sudo vi wp-config.php
 
 define('DB_NAME', 'wordpressdb');
+
 define('DB_USER', 'dbuser');
+
 define('DB_PASSWORD', 'admin123');
+
 define('DB_HOST', 'localhost');
 
 ## Passo 15: Mover os ficheiros do WordPress para o diretório do Apache
