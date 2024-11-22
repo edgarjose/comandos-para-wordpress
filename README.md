@@ -16,6 +16,7 @@ sudo systemctl enable httpd
 
 ## Passo 4: Instalar PHP 7.4
 sudo amazon-linux-extras install -y php7.4
+
 sudo systemctl restart httpd
 
 ## Passo 5: Instalar MariaDB
