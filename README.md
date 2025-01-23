@@ -1,5 +1,5 @@
 # comandos-para-wordpress
-instalacao do wordpress numa instancia EC2
+Instalação do WordPress numa instância EC2.
 
 
 ## Passo 1: Atualizar pacotes do sistema
